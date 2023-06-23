@@ -4,5 +4,5 @@ This repository is dedicated to the RSA Factoring Challenge, where the goal is t
 
 **File Descriptions**
 **factors:** This file contains the program responsible for factorization.
-
-**tests/test00:** This file includes the set of numbers that are to be factorized.
+Factorize as many numbers as possible into a product of two smaller numbers.
+RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
